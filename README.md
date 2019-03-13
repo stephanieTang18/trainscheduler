@@ -1,2 +1,3 @@
 # trainscheduler
-timed train scheduler
+timed train scheduler using firebase.
+
